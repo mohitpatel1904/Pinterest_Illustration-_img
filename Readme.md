@@ -162,7 +162,3 @@ Current collection stats:
 ### Images Below Size Threshold
 - All images must have both dimensions ≥ 800px
 - Try different search queries for higher resolution results
-
-## 📄 License
-
-This project is for educational purposes only. Respect copyright and Pinterest's Terms of Service when using scraped content.
